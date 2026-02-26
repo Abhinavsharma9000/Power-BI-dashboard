@@ -1,4 +1,4 @@
-#### 📊 Blinkit Sales Dashboard – Power BI Project
+ 📊 Blinkit Sales Dashboard – Power BI Project
 
 An interactive and real-time **Power BI dashboard** built to analyze and visualize sales data for **Blinkit**, a leading grocery delivery platform. This project enables stakeholders to monitor key performance indicators, identify trends, and make faster data-driven decisions using a visually compelling dashboard.
 
